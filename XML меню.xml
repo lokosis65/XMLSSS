@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2021-04-01 12:20">
+  <shop>
+	  
+    <name>vk.com</name>
+	  
+    <company>vk.com</company>
+	  
+    <url>https://vk.com/</url>
+	  
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+	  
+    <categories>
+        <category id="112">Горячие блюда</category>
+	    <category id="113">В лаваше</category>
+		<category id="114">Альтернативные блюда</category>
+		<category id="115">В сырной тортилье</category>
+	    <category id="116">В булке</category>
+	    <category id="117">Закуски</category>
+	    <category id="118">Супы</category>
+	    <category id="119">Десерты</category>
+	    <category id="120">Холодные напитки</category>
+	    <category id="121">Салаты</category>
+	    <category id="122">Завтрак</category>
+     </categories>
+	  
+    <offers>
+      <offer id="1" available="true">
+          <price>199</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>112</categoryId>
+		  <categoryId>113</categoryId>
+		  <weight>0.32</weight>
+          <name>Шаурма Standart</name>
+          <description>Сочная курица, микс капусты, помидор, огурец свежий, фирменный белый соус</description>
+          <picture>https://eda.yandex/images/3506804/2bd0ea07da2b409d901e8df68b088773.jpg</picture>
+      </offer>
+		
+			<offer id="2" available="true">
+				<name>Шаурма Max</name>
+				<price>249</price>
+				<categoryId>112</categoryId>
+				<categoryId>113</categoryId>
+				<weight>0.45</weight>
+				<description>Сочная курица, микс капусты, помидор, огурец свежий, фирменный белый соус</description>
+				<currencyId>RUB</currencyId>
+				<picture>https://eda.yandex/images/3506804/2bd0ea07da2b409d901e8df68b088773.jpg</picture>
+			</offer>
+		
+		<offer id="3" available="true">
+			<name>Шаурма Mini</name>
+			<price>149</price>
+			<categoryId>112</categoryId>
+			<categoryId>113</categoryId>
+			<weight>0.25</weight>
+			<description>Сочная курица, микс капусты, помидор, морковь по корейски, фирменный белый соус</description>
+			<currencyId>RUB</currencyId>
+			<picture>https://eda.yandex/images/3514991/0d0fe697333a544ab478e6a61b1f174a.jpg</picture>
+		</offer>
+		
+		<offer id="4" available="true">
+			<name>Шаурма XXL</name>
+			<price>229</price>
+			<categoryId>112</categoryId>
+			<categoryId>113</categoryId>
+			<weight>0.6</weight>
+			<description>Сочная курица, микс капусты, помидор, огурец свежий, фирменный белый соус, картофель жареный  </description>
+			<picture>https://eda.yandex/images/3667559/e443fc01d9ea41f999863bcbcdd28a7e.jpg</picture>
+			<currencyId>RUB</currencyId>
+			</offer>
+		
+		<offer id="5" available="true">
+			<name>Шаурма "На тарелке"</name>
+			<price>279</price>
+			<categoryId>112</categoryId>
+			<categoryId>114</categoryId>
+			<weight>0.38</weight>
+			<description>Сочная курица, помидор, огурец, морковь по корейски, французский соус, картофель фри, булочка </description>
+            <picture>https://i0.photo.2gis.com/images/branch/0/30258560058093365_ca17.jpg</picture>
+			<currencyId>RUB</currencyId>
+		</offer>
+		
+		<offer id="6" available="true">
+			<name>Шаурма Деревенская</name>
+			<price>229</price>
+			<categoryId>112</categoryId>
+			<categoryId>113</categoryId>
+			<weight>0.35</weight>
+			<description>Сочная курица, микс капусты, маринованный огурец, морковь по-корейски, соус кетчуп, соус фирменный, картофель жаренный </description>
+			<picture>https://eda.yandex/images/3439028/dae46351f1cf0143a8d9a2d546ee27f7.jpg</picture>
+			<currencyId>RUB</currencyId>
+		</offer>
+		
+		<offer id="7" available="true">
+			<name>Шаурма Мексиканская</name>
+			<price>229</price>
+			<categoryId>112</categoryId>
+			<categoryId>113</categoryId>
+			<weight>0.35</weight>
+			<description>Сочная курица, микс капусты, кукуруза, огурец, помидор, соус чили, соус фирменный </description>
+			<picture>https://eda.yandex/images/3439028/77070abbe9ecf0025aaffc4604894a4c.jpg</picture>
+			<currencyId>RUB</currencyId>
+		</offer>
+		
+		<offer id="8" available="true">
+			<name>Шаурма Тейсти</name>
+			<price>229</price>
+			<categoryId>112</categoryId>
+			<categoryId>113</categoryId>
+			<weight>0.32</weight>
+			<description>Сочная курица, микс капусты, бекон, огурец маринованный, соус тейсти </description>
+			<picture>https://eda.yandex/images/3798638/4649147c3f81e1e6475cf859a8104596.jpg</picture>
+			<currencyId>RUB</currencyId>
+		</offer>
+
+		<offer id="9" available="true">
+			<name>Шаурма Фитнес</name>
+			<price>229</price>
+			<categoryId>112</categoryId>
+			<categoryId>113</categoryId>
+			<weight>0.3</weight>
+			<description>Шпинат, сельдерей, термостатный йогурт, помидор, перец болгарский, сочная курица</description>
+			<picture>https://eda.yandex/images/2050703/42189d733599ec5bdf8243281230f85b.jpg</picture>
+			<currencyId>RUB</currencyId>
+		</offer>
+		
+		<offer id="10" available="true">
+			<name>Шаурма Гавайская</name>
+			<price>249</price>
+			<categoryId>112</categoryId>
+	        <categoryId>115</categoryId>
+			<weight>0.31</weight>
+			<description>Сочная курочка, ананас, кукуруза, пикантный соус</description>
+			<picture>https://eda.yandex/images/3208959/923ae3b3623e70cbffac1972840ed19e.jpg</picture>
+			<currencyId>RUB</currencyId>
+		</offer>
+		
+	     <offer id="11" available="true">
+			<name>Шаурма Сырная</name>
+			<price>249</price>
+			<categoryId>112</categoryId>
+	        <categoryId>115</categoryId>
+			<weight>0.33</weight>
+			<description>Картофель фри, сочная курица, помидор, соус цезарь, сыр чеддер (2 шт.)</description>
+			<picture>https://eda.yandex/images/3770794/2e50589f51dadd4e6ae1b6ce3034c040.jpg</picture>
+			<currencyId>RUB</currencyId>
+		</offer>
+		
+		<offer id="12" available="true">
+			<name>Шаурма Адыгейская</name>
+			<price>249</price>
+			<categoryId>112</categoryId>
+	        <categoryId>115</categoryId>
+			<weight>0.34</weight>
+			<description>Сочная курочка, сыр сулугуни, кинза, свежие овощи, соус фирменный белый, соус терияки, соус сырный</description>
+			<picture>https://eda.yandex/images/3508859/71caa94038647bbd699d9aad0ff46d82.jpg</picture>
+			<currencyId>RUB</currencyId>
+		</offer>
+		
+		<offer id="13" available="true">
+			<name>Шаурма Барбекю</name>
+			<price>249</price>
+			<categoryId>112</categoryId>
+	        <categoryId>115</categoryId>
+			<weight>0.34</weight>
+			<description>Сочная курочка, сосиска копченая, жареный картофель, соус барбекю, огурец свежий</description>
+			<picture>https://eda.yandex/images/3593277/6fa3c70f7d7c456507398ef785245d94.jpg</picture>
+			<currencyId>RUB</currencyId>
+		</offer>
+		
+		 <offer id="14" available="true">
+			<name>Шаурма С тунцом</name>
+			<price>249</price>
+			<categoryId>112</categoryId>
+	        <categoryId>115</categoryId>
+			<weight>0.32</weight>
+			<description>Французский соус, маринованные огурчики, вареное яйцо, листья салата айсберг, жареный сладкий лук, тунец</description>
+			<picture>https://clck.ru/36vuhP</picture>
+			<currencyId>RUB</currencyId>
+		</offer>
+		
+		<offer id="15" available="true">
+			<name>Шаурма с морепродуктами</name>
+			<price>249</price>
+			<categoryId>112</categoryId>
+			<categoryId>114</categoryId>
+			<weight>0.3</weight>
+			<description>Коктейль из морепродуктов, микс капусты, помидор, огурец, фирменный соус, соус терияки </description>
+            <picture>https://eda.yandex/images/3456802/184d9cc27f401097a07050ec31efd72c.jpg</picture>
+			<currencyId>RUB</currencyId>
+		</offer>
+		
+		<offer id="16" available="true">
+			<name>Шаурма вегетарианская</name>
+			<price>179</price>
+			<categoryId>112</categoryId>
+			<categoryId>114</categoryId>
+			<weight>0.3</weight>
+			<description>Жаренные шампиньоны, микс капусты, помидор, огурец, фирменный соус</description>
+            <picture>https://eda.yandex/images/3456802/184d9cc27f401097a07050ec31efd72c.jpg</picture>
+			<currencyId>RUB</currencyId>
+		</offer>
+		
+		<offer id="17" available="true">
+			<name>Шаурма с креветками</name>
+			<price>359</price>
+			<categoryId>112</categoryId>
+			<categoryId>114</categoryId>
+			<weight>0.3</weight>
+			<description>Креветки, ананас, помидор, соус цезарь, салат айсберг</description>
+            <picture>https://img.povar.ru/uploads/14/c7/25/eb/fdef0b9ce07c3ab93828a69ce782e72e.jpg</picture>
+			<currencyId>RUB</currencyId>
+		</offer>
+		
+		<offer id="18" available="true">
+			<name>Гиро</name>
+			<price>249</price>
+			<categoryId>112</categoryId>
+			<categoryId>116</categoryId>
+			<weight>0.37</weight>
+			<description>Сочная курочка, микс капусты, огурец, помидор, жаренный картофель, соус фирменный</description>
+            <picture>https://eda.yandex/images/3550919/4a404a7ab5e34178c056638354b664af.jpg</picture>
+			<currencyId>RUB</currencyId>
+		</offer>
+		
+		<offer id="19" available="true">
+			<name>Фахитос</name>
+			<price>269</price>
+			<categoryId>112</categoryId>
+			<categoryId>116</categoryId>
+			<weight>0.5</weight>
+			<description>Сочная курочка, микс капусты, огурец, помидор, кукуруза, маслины, соус фирменный</description>
+            <picture>https://eda.yandex/images/3583862/a93be2767914ac756911a80a43c6096f.jpg</picture>
+			<currencyId>RUB</currencyId>
+		</offer>
+		
+		<offer id="20" available="true">
+			<name>Хот-дог</name>
+			<price>89</price>
+			<categoryId>112</categoryId>
+			<categoryId>116</categoryId>
+			<weight>0.22</weight>
+			<description>Куриная сосиска, морковь по-корейски, маринованные огурцы, фирменный соус, кетчуп.</description>
+            <picture>https://eda.yandex/images/3191933/1c23b9ae9ffcbbed64fcf82c9a7c9cc0.jpg</picture>
+			<currencyId>RUB</currencyId>
+		</offer>
+		
+		<offer id="21" available="true">
+			<name>Френч-дог</name>
+			<price>119</price>
+			<categoryId>112</categoryId>
+			<categoryId>116</categoryId>
+			<weight>0.18</weight>
+			<description>Куриная сосиска, морковь по-корейски, маринованные огурцы, фирменный соус, кетчуп.</description>
+            <picture>https://eda.yandex/images/3667559/79992677a9f824034bd9d8aaaf280017.jpg</picture>
+			<currencyId>RUB</currencyId>
+		</offer>
+		
+		<offer id="22" available="true">
+			<name>Наггетсы 6 шт.</name>
+			<price>139</price>
+			<categoryId>117</categoryId>
+			<weight>0.13</weight>
+			<description>6 штучек куриных наггетсов</description>
+            <picture>https://eda.yandex/images/3191933/be7ec4cf82819f435bced886bd57ef72.jpg</picture>
+			<currencyId>RUB</currencyId>
+		</offer>
+		
+		<offer id="23" available="true">
+			<name>Наггетсы 9 шт.</name>
+			<price>179</price>
+			<categoryId>117</categoryId>
+			<weight>0.19</weight>
+			<description>9 штучек куриных наггетсов</description>
+            <picture>https://eda.yandex/images/3191933/be7ec4cf82819f435bced886bd57ef72.jpg</picture>
+			<currencyId>RUB</currencyId>
+		</offer>
+		
+		<offer id="24" available="true">
+			<name>Сырные шарики 9 шт.</name>
+			<price>249</price>
+			<categoryId>117</categoryId>
+			<weight>0.18</weight>
+			<description>9 сырных шариков</description>
+            <picture>https://100foto.club/uploads/posts/2022-06/1656520320_4-100foto-club-p-sirnie-shariki-bez-zharki-11.jpg</picture>
+			<currencyId>RUB</currencyId>
+		</offer>
+		
+		<offer id="25" available="true">
+			<name>Креветки темпура</name>
+			<price>299</price>
+			<categoryId>117</categoryId>
+			<weight>0.12</weight>
+			<description>6 креветок темпура</description>
+            <picture>https://eda.yandex/images/3337779/c3aca8dbd11a43e8861f3428381250c8.jpg</picture>
+			<currencyId>RUB</currencyId>
+		</offer>
+		
+		<offer id="26" available="true">
+			<name>Фри бокс с сыром</name>
+			<price>159</price>
+			<categoryId>117</categoryId>
+			<weight>0.17</weight>
+			<description>Картофель фри, сырный соус, сыр чеддер, зелень</description>
+            <picture>https://eda.yandex/images/2761069/36ed01d81bd0b38b7680b15b0c8d3512.jpg</picture>
+			<currencyId>RUB</currencyId>
+		</offer>
+		
+		<offer id="27" available="true">
+			<name>Фри бокс с сыром и беконом</name>
+			<price>179</price>
+			<categoryId>117</categoryId>
+			<weight>0.19</weight>
+			<description>Картофель фри, сырный соус, сыр чеддер, бекон, зелень</description>
+            <picture>https://eda.yandex/images/1368744/3a3e34b403f7132ffbd9b6d8c02260cd.jpg</picture>
+			<currencyId>RUB</currencyId>
+		</offer>
+		
+		<offer id="28" available="true">
+			<name>Фри бокс "От шефа"</name>
+			<price>189</price>
+			<categoryId>117</categoryId>
+			<weight>0.18</weight>
+			<description>Картошка фри, фирменный соус, бекон, шампиньоны, жареный лук</description>
+            <picture>https://eda.yandex/images/1962206/deddfe5303b14fd49606a446f04fc2a7.jpg</picture>
+			<currencyId>RUB</currencyId>
+		</offer>
+		
+		<offer id="29" available="true">
+			<name>Картофель фри</name>
+			<price>119</price>
+			<categoryId>117</categoryId>
+			<weight>0.12</weight>
+			<description>Картофель фри</description>
+            <picture>https://eda.yandex/images/3106738/f6bee6a18d1a9d2021134a9821270349.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="30" available="true">
+			<name>Картофель по деревенски</name>
+			<price>119</price>
+			<categoryId>117</categoryId>
+			<weight>0.13</weight>
+			<description>Картофель по деревенски (дольки)</description>
+            <picture>https://eda.yandex/images/3809330/1ad243efb1ada49688869ce08eb28d3a.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="31" available="true">
+			<name>Куриный суп лапша</name>
+			<price>169</price>
+			<categoryId>118</categoryId>
+			<weight>0.25</weight>
+			<description>Курочка, лапша, картофель, насыщенный бульон, зелень</description>
+            <picture>https://eda.yandex/images/3583740/c9a1ea98a3c341b4944f363704ba673d.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="32" available="true">
+			<name>Солянка</name>
+			<price>169</price>
+			<categoryId>118</categoryId>
+			<weight>0.25</weight>
+			<description>Бекон, курица, баварские колбаски, сосиски, огурцы соленые, томатная паста, маслины, оливки, укроп, лимон</description>
+            <picture>https://eda.yandex/images/3798638/f1e7e5e91d804db38d5779c55fcb50b4.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="33" available="false">
+			<name>Окрошка</name>
+			<price>169</price>
+			<categoryId>118</categoryId>
+			<weight>0.25</weight>
+			<description>Кефир, молочная колбаска, картошечка, огурчик, укропчик, яичко варёное</description>
+            <picture>https://eda.yandex/images/3513074/10715d23752d4a03b58e0ee39a78bf71.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="34" available="true">
+			<name>Донат в шоколадной глазури</name>
+			<price>99</price>
+			<categoryId>119</categoryId>
+			<weight>0.075</weight>
+			<description>Пончик в шоколадной глазури</description>
+            <picture>https://eda.yandex/images/3583862/34081222cdb1483fa1c1c4fc5d6f8551.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="35" available="true">
+			<name>Frustyle апельсин</name>
+			<price>119</price>
+			<categoryId>120</categoryId>
+			<weight>0.5</weight>
+			<description>Frustyle апельсин</description>
+            <picture>https://eda.yandex/images/3595513/ef906bc533cc46a898fb6e5d512198d8.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="36" available="true">
+			<name>Frustyle лимон-лайм</name>
+			<price>119</price>
+			<categoryId>120</categoryId>
+			<weight>0.5</weight>
+			<description>Frustyle лимон-лайм</description>
+            <picture>https://eda.yandex/images/3490335/592ab2e9838f459a8463c7ef256a1d88.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="37" available="true">
+			<name>Evervess cola</name>
+			<price>119</price>
+			<categoryId>120</categoryId>
+			<weight>0.5</weight>
+			<description>Evervess cola</description>
+            <picture>https://eda.yandex/images/3538649/2ec16b01339a411285518190f562a031.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="38" available="true">
+			<name>Lipton зеленый</name>
+			<price>109</price>
+			<categoryId>120</categoryId>
+			<weight>0.5</weight>
+			<description>Lipton зеленый</description>
+            <picture>https://eda.yandex/images/3507787/09e468f9eee33ab47513a5df4f2ddfd3.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="39" available="true">
+			<name>Lipton чёрный</name>
+			<price>109</price>
+			<categoryId>120</categoryId>
+			<weight>0.5</weight>
+			<description>Lipton чёрный</description>
+            <picture>https://irkmarket.ru/images/virtuemart/product/062237.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="40" available="true">
+			<name>Вода аква минерале (газ)</name>
+			<price>85</price>
+			<categoryId>120</categoryId>
+			<weight>0.5</weight>
+			<description>Вода аква минерале (газ)</description>
+            <picture>https://eda.yandex/images/2794391/ea81fcf7af798ed5cf6e5d19415cd1d2.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="41" available="true">
+			<name>Вода аква минерале (не газ)</name>
+			<price>85</price>
+			<categoryId>120</categoryId>
+			<weight>0.5</weight>
+			<description>Вода аква минерале (не газ)</description>
+            <picture>https://eda.yandex/images/2794391/ea81fcf7af798ed5cf6e5d19415cd1d2.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="42" available="true">
+			<name>Frustyle апельсин</name>
+			<price>99</price>
+			<categoryId>120</categoryId>
+			<weight>0.33</weight>
+			<description>Frustyle апельсин</description>
+            <picture>https://eda.yandex/images/3502800/df64404e60494ae4b47340838a0bd408.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="43" available="true">
+			<name>Frustyle лимон-лайм</name>
+			<price>99</price>
+			<categoryId>120</categoryId>
+			<weight>0.33</weight>
+			<description>Frustyle лимон-лайм</description>
+            <picture>https://eda.yandex/images/3593277/81399ca6565e4192a606022a64f71646.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="44" available="true">
+			<name>Evervess cola</name>
+			<price>99</price>
+			<categoryId>120</categoryId>
+			<weight>0.33</weight>
+			<description>Evervess cola</description>
+            <picture>https://eda.yandex/images/3507285/3799e9ca0fcb47eea7780436ae62dcb6.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="45" available="true">
+			<name>Evervess cola</name>
+			<price>99</price>
+			<categoryId>120</categoryId>
+			<weight>0.33</weight>
+			<description>Evervess cola</description>
+            <picture>https://eda.yandex/images/3507285/3799e9ca0fcb47eea7780436ae62dcb6.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="46" available="true">
+			<name>Сок j7 апельсин</name>
+			<price>99</price>
+			<categoryId>120</categoryId>
+			<weight>0.3</weight>
+			<description>Сок j7 апельсин</description>
+            <picture>https://eda.yandex/images/3337779/9c6c8355cf2d438c935b81a45d9f2004.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="47" available="true">
+			<name>Сок j7 яблоко</name>
+			<price>99</price>
+			<categoryId>120</categoryId>
+			<weight>0.3</weight>
+			<description>Сок j7 яблоко</description>
+            <picture>https://eda.yandex/images/3583740/fc05f32227ae45b09c710958f6ef949b.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="48" available="true">
+			<name>Сок j7 мультифрукт</name>
+			<price>99</price>
+			<categoryId>120</categoryId>
+			<weight>0.3</weight>
+			<description>Сок j7 мультифрукт</description>
+            <picture>https://eda.yandex/images/3595513/4b071e9a94aa4265838d868185877d01.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="49" available="true">
+			<name>Сок j7 мультифрукт</name>
+			<price>89</price>
+			<categoryId>120</categoryId>
+			<weight>0.2</weight>
+			<description>Сок j7 мультифрукт</description>
+            <picture>https://cdn.skidka-msk.ru/images/prodacts/sourse/82552/82552290_nektar-j-7-multifrukt-s-myakotyu-200-ml-j7.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="50" available="true">
+			<name>Сок j7 яблоко</name>
+			<price>89</price>
+			<categoryId>120</categoryId>
+			<weight>0.2</weight>
+			<description>Сок j7 яблоко</description>
+            <picture>https://main-cdn.sbermegamarket.ru/hlr-system/17540281028/100023688597b0.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="51" available="true">
+			<name>Evervess cola</name>
+			<price>169</price>
+			<categoryId>120</categoryId>
+			<weight>1</weight>
+			<description>Evervess cola</description>
+            <picture>https://agrokomplexshop.ru/upload/iblock/d91/lnzk3lo6hnlwt7oeahq9grhfkift88q6/201dab6a-cd2c-11ed-ab91-00155d0a8003_0eec5bc6-f55a-11ed-ab37-00155d0a9505.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="52" available="true">
+			<name>Frustyle апельсин</name>
+			<price>169</price>
+			<categoryId>120</categoryId>
+			<weight>1</weight>
+			<description>Frustyle апельсин</description>
+            <picture>https://korzina.su/upload/iblock/19c/lpzl6wrmpdnvg1663qxwqke3zxliyezh.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="53" available="true">
+			<name>Frustyle лимон-лайм</name>
+			<price>169</price>
+			<categoryId>120</categoryId>
+			<weight>1</weight>
+			<description>Frustyle лимон-лайм</description>
+            <picture>https://cdn1.ozone.ru/s3/multimedia-f/6591013923.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="54" available="true">
+			<name>Lipton лимон</name>
+			<price>169</price>
+			<categoryId>120</categoryId>
+			<weight>1</weight>
+			<description>Lipton лимон</description>
+            <picture>https://alsat24.ru/wp-content/uploads/2022/06/ef940756e9ef11eca80654a05054786b_cc0d316ee9f511eca80654a05054786b-990x990.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="55" available="true">
+			<name>Lipton зеленый</name>
+			<price>169</price>
+			<categoryId>120</categoryId>
+			<weight>1</weight>
+			<description>Lipton зеленый</description>
+            <picture>https://st-vkusno.ru/image/cache/catalog/shop/0_1000/878/1510202203_cf1-1600x1600.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="56" available="true">
+			<name>Салат цезарь</name>
+			<price>179</price>
+			<categoryId>121</categoryId>
+			<weight>0.15</weight>
+			<description>Помидор, лист салата, сухари, курица, сыр пармезан, соус цезарь</description>
+            <picture>https://eda.yandex/images/3667559/67441e06b1e669f1a1585708306eff43.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="57" available="true">
+			<name>Салат греческий</name>
+			<price>159</price>
+			<categoryId>121</categoryId>
+			<weight>0.15</weight>
+			<description>Помидор, огурец, болгарский перец, сыр фета, маслины, фирменная заправка</description>
+            <picture>https://eda.yandex/images/3507285/8f63ae5b596b3243c98af9915d118eb9.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="58" available="true">
+			<name>Салат цезарь с креветками</name>
+			<price>339</price>
+			<categoryId>121</categoryId>
+			<weight>0.15</weight>
+			<description>Листья салата, креветки, помидор, пармезан, соус цезарь, соус чили</description>
+            <picture>https://eda.yandex/images/3456802/d98bbf3215d44630acd7957fccec379f.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="59" available="true">
+			<name>Салат с тунцом</name>
+			<price>179</price>
+			<categoryId>121</categoryId>
+			<weight>0.16</weight>
+			<description>Листья салата, помидор, огурец, кукуруза, тунец, соуст терияки </description>
+            <picture>https://clck.ru/36xPRm</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="60" available="true">
+			<name>Сырники</name>
+			<price>129</price>
+			<categoryId>122</categoryId>
+			<weight>0.16</weight>
+			<description>2 сырника с джемом </description>
+            <picture>https://shefburger.ru/components/com_jshopping/files/img_products/thumb_syrnik.jpeg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="61" available="true">
+			<name>Блинчики с творогом</name>
+			<price>129</price>
+			<categoryId>122</categoryId>
+			<weight>0.16</weight>
+			<description>3 блинчика с творогом </description>
+            <picture>https://selcdn.fedsp.com/cancer/10/1386/2965f59c75e24b81.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+		<offer id="62" available="true">
+			<name>Блинчики с вишней</name>
+			<price>129</price>
+			<categoryId>122</categoryId>
+			<weight>0.16</weight>
+			<description>3 блинчика с вишней </description>
+            <picture>http://klublady.ru/uploads/posts/2022-02/1644742965_50-klublady-ru-p-blini-s-vishnei-foto-62.jpg</picture>
+			<currencyId>RUB</currencyId>  
+		</offer>
+		
+
+	</offers>
+  </shop>
+</yml_catalog>
+
