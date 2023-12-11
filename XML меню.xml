@@ -27,16 +27,7 @@
      </categories>
 	  
     <offers>
-      <offer id="1" available="true">
-          <price>199</price>
-          <currencyId>RUB</currencyId>
-          <categoryId>112</categoryId>
-		  <categoryId>113</categoryId>
-		  <weight>0.32</weight>
-          <name>Шаурма Standart</name>
-          <description>Сочная курица, микс капусты, помидор, огурец свежий, фирменный белый соус</description>
-          <picture>https://eda.yandex/images/3506804/2bd0ea07da2b409d901e8df68b088773.jpg</picture>
-      </offer>
+      
 		
 			<offer id="2" available="true">
 				<name>Шаурма Max</name>
