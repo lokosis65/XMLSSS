@@ -368,17 +368,7 @@
             <picture>https://eda.yandex/images/3798638/f1e7e5e91d804db38d5779c55fcb50b4.jpg</picture>
 			<currencyId>RUB</currencyId>  
 		</offer>
-		
-		<offer id="33" available="false">
-			<name>Окрошка</name>
-			<price>169</price>
-			<categoryId>118</categoryId>
-			<weight>0.25</weight>
-			<description>Кефир, молочная колбаска, картошечка, огурчик, укропчик, яичко варёное</description>
-            <picture>https://eda.yandex/images/3513074/10715d23752d4a03b58e0ee39a78bf71.jpg</picture>
-			<currencyId>RUB</currencyId>  
-		</offer>
-		
+	    
 		<offer id="34" available="true">
 			<name>Донат в шоколадной глазури</name>
 			<price>99</price>
