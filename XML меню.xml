@@ -41,7 +41,7 @@
 		
 			<offer id="2" available="true">
 				<name>Шаурма Max</name>
-				<price>249</price>
+				<price>259</price>
 				<categoryId>112</categoryId>
 				<categoryId>113</categoryId>
 				<weight>0.45</weight>
@@ -63,7 +63,7 @@
 		
 		<offer id="4" available="true">
 			<name>Шаурма XXL</name>
-			<price>229</price>
+			<price>319</price>
 			<categoryId>112</categoryId>
 			<categoryId>113</categoryId>
 			<weight>0.6</weight>
