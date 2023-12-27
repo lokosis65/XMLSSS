@@ -28,7 +28,7 @@
 	  
     <offers>
 	     <offer id="1" available="true">
-          <price>199</price>
+          <price>229</price>
           <currencyId>RUB</currencyId>
           <categoryId>112</categoryId>
 		  <categoryId>113</categoryId>
@@ -63,7 +63,7 @@
 		
 		<offer id="4" available="true">
 			<name>Шаурма XXL</name>
-			<price>319</price>
+			<price>339</price>
 			<categoryId>112</categoryId>
 			<categoryId>113</categoryId>
 			<weight>0.6</weight>
@@ -74,12 +74,12 @@
 		
 		<offer id="5" available="true">
 			<name>Шаурма "На тарелке"</name>
-			<price>279</price>
+			<price>299</price>
 			<categoryId>112</categoryId>
 			<categoryId>114</categoryId>
 			<weight>0.38</weight>
 			<description>Сочная курица, помидор, огурец, морковь по корейски, французский соус, картофель фри, булочка </description>
-            <picture>https://sun9-18.userapi.com/impg/Fo-WjTtUscTJKqiOPJdqSl5MH1EPmLBZjF6TJg/_t_P3XBqCwM.jpg?size=2560x1920&quality=95&sign=06c4cb3bc520e5b013dc983fe428178f&type=album</picture>
+            <picture>https://clck.ru/37De4a</picture>
 			<currencyId>RUB</currencyId>
 		</offer>
 		
@@ -239,7 +239,7 @@
 		
 		<offer id="20" available="true">
 			<name>Хот-дог</name>
-			<price>89</price>
+			<price>109</price>
 			<categoryId>112</categoryId>
 			<categoryId>116</categoryId>
 			<weight>0.22</weight>
@@ -301,7 +301,7 @@
 		
 		<offer id="26" available="true">
 			<name>Фри бокс с сыром</name>
-			<price>159</price>
+			<price>179</price>
 			<categoryId>117</categoryId>
 			<weight>0.17</weight>
 			<description>Картофель фри, сырный соус, сыр чеддер, зелень</description>
@@ -311,7 +311,7 @@
 		
 		<offer id="27" available="true">
 			<name>Фри бокс с сыром и беконом</name>
-			<price>179</price>
+			<price>199</price>
 			<categoryId>117</categoryId>
 			<weight>0.19</weight>
 			<description>Картофель фри, сырный соус, сыр чеддер, бекон, зелень</description>
@@ -351,7 +351,7 @@
 		
 		<offer id="31" available="true">
 			<name>Куриный суп лапша</name>
-			<price>169</price>
+			<price>189</price>
 			<categoryId>118</categoryId>
 			<weight>0.25</weight>
 			<description>Курочка, лапша, картофель, насыщенный бульон, зелень</description>
@@ -361,7 +361,7 @@
 		
 		<offer id="32" available="true">
 			<name>Солянка</name>
-			<price>169</price>
+			<price>189</price>
 			<categoryId>118</categoryId>
 			<weight>0.25</weight>
 			<description>Бекон, курица, баварские колбаски, сосиски, огурцы соленые, томатная паста, маслины, оливки, укроп, лимон</description>
@@ -601,7 +601,7 @@
 		
 		<offer id="56" available="true">
 			<name>Салат цезарь</name>
-			<price>179</price>
+			<price>199</price>
 			<categoryId>121</categoryId>
 			<weight>0.15</weight>
 			<description>Помидор, лист салата, сухари, курица, сыр пармезан, соус цезарь</description>
@@ -611,7 +611,7 @@
 		
 		<offer id="57" available="true">
 			<name>Салат греческий</name>
-			<price>159</price>
+			<price>179</price>
 			<categoryId>121</categoryId>
 			<weight>0.15</weight>
 			<description>Помидор, огурец, болгарский перец, сыр фета, маслины, фирменная заправка</description>
@@ -631,7 +631,7 @@
 		
 		<offer id="59" available="true">
 			<name>Салат с тунцом</name>
-			<price>179</price>
+			<price>199</price>
 			<categoryId>121</categoryId>
 			<weight>0.16</weight>
 			<description>Листья салата, помидор, огурец, кукуруза, тунец, соуст терияки </description>
@@ -673,4 +673,3 @@
 	</offers>
   </shop>
 </yml_catalog>
-
