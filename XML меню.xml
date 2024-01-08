@@ -311,7 +311,7 @@
 		
 		<offer id="27" available="true">
 			<name>Фри бокс с сыром и беконом</name>
-			<price>199</price>
+			<price>189</price>
 			<categoryId>117</categoryId>
 			<weight>0.19</weight>
 			<description>Картофель фри, сырный соус, сыр чеддер, бекон, зелень</description>
@@ -321,7 +321,7 @@
 		
 		<offer id="28" available="true">
 			<name>Фри бокс "От шефа"</name>
-			<price>189</price>
+			<price>199</price>
 			<categoryId>117</categoryId>
 			<weight>0.18</weight>
 			<description>Картошка фри, фирменный соус, бекон, шампиньоны, жареный лук</description>
